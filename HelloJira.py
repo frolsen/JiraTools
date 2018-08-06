@@ -3,9 +3,9 @@ import time
 
 def main():
     jira_server = {
-        'server': ''}
+        'server': 'test URL test test'}
 
-
+    jira_user = "testuser"
     jira_user = ""
     jira_password = ""
     t = time.perf_counter()
